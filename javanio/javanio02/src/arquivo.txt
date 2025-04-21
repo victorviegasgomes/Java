@@ -1,0 +1,3 @@
+lendo um arquivo com java usando o java.nio
+este conteúdo esta sendo retirado de um arquivi de texto
+OBS: ele não foi escrito com System.out.print
