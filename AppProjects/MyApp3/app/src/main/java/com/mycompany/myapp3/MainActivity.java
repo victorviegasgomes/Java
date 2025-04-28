@@ -18,7 +18,7 @@ public class MainActivity extends Activity
 		txt.setText("olá, mundo");
 		btn = findViewById(R.id.btn);
 		txt_res = findViewById(R.id.txt_res);
-		mensagem();
+		//mensagem();
     }
 	public void mensagem() {
 		txt_res.setText("você clicou no botão");
